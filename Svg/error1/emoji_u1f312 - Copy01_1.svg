@@ -1,0 +1,12 @@
+<svg enable-background="new 0 0 128 128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">   
+    <g mask="url(#n)">
+        <radialGradient id="l" cx="0" cy="0" r="100" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFF157" offset=".282" />
+            <stop stop-color="#FEEE54" offset=".5225" />
+            <stop stop-color="#FAE44A" offset=".7208" />
+            <stop stop-color="#F4D538" offset=".9035" />
+            <stop stop-color="#F0C92C" offset="1" />
+        </radialGradient>
+        <circle cx="64" cy="64" r="60" fill="url(#l)" /> 
+    </g>
+</svg>

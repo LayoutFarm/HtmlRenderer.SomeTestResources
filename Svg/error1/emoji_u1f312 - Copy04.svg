@@ -1,0 +1,12 @@
+<svg enable-background="new 0 0 128 128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">  
+    <g mask="url(#n)"> 
+		<circle cx="64" cy="64" r="60" fill="black" /> 
+        <radialGradient id="h" cx="107.55" cy="48.462" r="11.738" gradientTransform="matrix(.0682 .9977 -1.0103 .069 145.32 -66.927)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#E0A800" offset=".0061135" />
+            <stop stop-color="#E0A800" stop-opacity=".1074" offset=".6098" />
+            <stop stop-color="#E0A800" stop-opacity="0" offset=".6825" />
+        </radialGradient>
+        <path d="m114.19 45.87c-0.12 5.46-4.74 9.78-10.32 9.66s-10.01-4.64-9.89-10.1 4.74-9.78 10.32-9.66c5.58 0.13 10.01 4.65 9.89 10.1z" fill="url(#h)"  />
+      
+    </g>
+</svg>
